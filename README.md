@@ -5,6 +5,7 @@ This project aims to recognize handwritten digits (0-9) from the famous MNIST da
 The dataset used in this project is the MNIST dataset, which consists of 28x28 grayscale images of handwritten digits along with their corresponding labels.
 
 Training Data: The training data consists of 42,000 labeled images of handwritten digits.
+
 Test Data: The test data contains 28,000 unlabeled images.
 
 ## Project Structure
