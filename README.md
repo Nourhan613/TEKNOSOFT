@@ -9,6 +9,7 @@ Test Data: The test data contains 28,000 unlabeled images.
 
 ## Project Structure
 digit-recognizer.ipynb: Jupyter Notebook containing the Python code for training the CNN model, evaluating its performance, and generating predictions on the test set.
+
 submission.csv: CSV file containing the predicted labels for the test data, formatted for submission to Kaggle.
 
 ## Dependencies
@@ -29,5 +30,7 @@ The CNN model architecture used in this project consists of:
 - Output layer with softmax activation function for multi-class classification.
 
 ## Performance
-The model achieved a validation accuracy of approximately [99.1785]% after [20] epochs. 
+The model achieved a validation accuracy of approximately [99.1785%] after [20] epochs. 
+
 The confusion matrix visualizes the model's performance on the validation set.
+![image](https://github.com/Nourhan613/TEKNOSOFT/assets/98773024/c8eefbd4-c238-4936-81eb-7d2d505dde3d)
