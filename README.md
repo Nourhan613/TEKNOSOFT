@@ -13,14 +13,14 @@ digit-recognizer.ipynb: Jupyter Notebook containing the Python code for training
 submission.csv: CSV file containing the predicted labels for the test data, formatted for submission to Kaggle.
 
 ## Dependencies
-Python
-TensorFlow
-NumPy
-Pandas
-OpenCV
-Matplotlib
-scikit-learn
-Seaborn
+- Python
+- TensorFlow
+- NumPy
+- Pandas
+- OpenCV
+- Matplotlib
+- scikit-learn
+- Seaborn
 
 ## Model Architecture
 The CNN model architecture used in this project consists of:
