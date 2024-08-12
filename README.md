@@ -35,3 +35,4 @@ The model achieved a validation accuracy of approximately [99.1785%] after [20] 
 
 The confusion matrix visualizes the model's performance on the validation set.
 ![image](https://github.com/Nourhan613/TEKNOSOFT/assets/98773024/c8eefbd4-c238-4936-81eb-7d2d505dde3d)
+
